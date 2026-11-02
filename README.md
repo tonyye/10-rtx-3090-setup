@@ -1,4 +1,6 @@
 # Ten RTX 3090s on a Workstation Board
+<img src="1000034858.jpg" alt="Ten RTX 3090s on an open wire rack, above a workstation motherboard, three power supplies and a rear radiator" width="100%">
+
 
 ### How I built a 240 GB local LLM box with a SlimSAS card, two SlimSAS adapters, and a lot of patience
 
