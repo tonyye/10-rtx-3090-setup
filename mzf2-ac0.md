@@ -1,4 +1,5 @@
 # High-Density GPU Workstation: System Configuration & Bandwidth Benchmark Report
+<img src="20261116_171003.jpg" alt="Ten RTX 3090s and two RX 7900 xtx  on an open wire rack, above a server motherboard, and five power supplies" width="100%">
 
 **Date:** 2026-11-12
 **Type:** Technical configuration and performance-characterization article
