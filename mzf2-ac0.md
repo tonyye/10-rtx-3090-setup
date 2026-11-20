@@ -9,7 +9,7 @@
 
 This machine is a purpose-built, high-capacity GPU workstation/server designed for
 compute-heavy workloads such as large language model (LLM) inference and high-performance
-computing. It pairs a 12-GPU configuration with an AMD EPYC platform that provides ample
+computing. It pairs a 12-GPU configuration with a dual AMD EPYC platform that provides ample
 PCIe lanes and a large memory footprint.
 
 ### Key hardware
